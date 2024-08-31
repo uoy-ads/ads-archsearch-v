@@ -54,7 +54,7 @@
     "vue-template-compiler": "^2.7.16",
     "vue3-carousel": "^0.3.1",
     "vue3-click-away": "^1.2.4",
-    "webpack": "^5.90.1",
+    "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
     "webpack-inject-plugin": "^1.5.5",
